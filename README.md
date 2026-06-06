@@ -33,5 +33,5 @@ An AI-powered credit risk assessment system that predicts loan default probabili
 ![Analytics](Model_Analytics.png)
 
 ## Author
-Tamil S
+Tamil S,
 CodeAlpha Machine Learning Intern
